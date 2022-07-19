@@ -1,17 +1,11 @@
 ### Hello World 👋
-I am a fullstack software engineer from Australia
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
-- 🌱 Learning design patterns in depth
-<br>
-<br>
+<br/>
 
-## Expertise
+<!-- 
+title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2&bg_color=00000000&border_radius=20
+-->
 
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
-<img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
-<br>
-<br>
+<a href="#" style="text-decoration: none; display:flex; justify-content: center; align-items: center; gap: 2rem;">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=danecwalker&count_private=true&include_all_commits=true&custom_title=My%20Stats%20%F0%9F%9A%80&show_icons=true&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2&bg_color=00000000&border_radius=20" alt="My github stats: 12 total stars earned, 22 total commits, 1 total PR" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danecwalker&hide=swift,css,pug,typescript&langs_count=3&custom_title=My%20Top%203%20%E2%9D%A4%EF%B8%8F&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2&bg_color=00000000&border_radius=20" alt="My top 3 programming languages (Javascript, Go and Python)" />
+</a>
