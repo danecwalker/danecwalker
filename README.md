@@ -35,7 +35,7 @@
 
   <a href="https://app.daily.dev/danecwalker" target="_blank">
     <img
-      width="256"
+      width="240"
       align="right"
       src="https://api.daily.dev/devcards/ac0d5fccd0e94688a307d4ef8b820bfe.png?r=a7y"
     />
