@@ -44,7 +44,7 @@ Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
 - Powered by coffee 
 
-### Blog posts 📕
+### Blog Posts 📕
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
