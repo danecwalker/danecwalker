@@ -13,6 +13,6 @@ title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&border_color=e4e2e2&bg_co
 <a href="#">
   <img align="center" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danecwalker&hide=swift,css,pug,typescript&langs_count=3&custom_title=My%20Top%203%20%E2%9D%A4%EF%B8%8F&title_color=57a6ff&text_color=c8d1d9&icon_color=57a6ff&border_color=30363c&bg_color=0e1117&border_radius=6" />
 </a>
-<a href="https://app.daily.dev/danecwalker"><img align="center" height="200rem" src="https://api.daily.dev/devcards/ac0d5fccd0e94688a307d4ef8b820bfe.png?r=a7y" width="400" alt="Dane Walker's Dev Card"/></a>
+<a href="https://app.daily.dev/danecwalker"><img align="center" height="200rem" width="auto" src="https://api.daily.dev/devcards/ac0d5fccd0e94688a307d4ef8b820bfe.png?r=a7y" width="400" alt="Dane Walker's Dev Card"/></a>
 </div>
 </center>
