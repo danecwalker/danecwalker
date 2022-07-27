@@ -3,7 +3,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
 </a>
 </div>
-</br>
 
 <div align="center">
 
