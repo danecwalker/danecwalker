@@ -15,6 +15,7 @@ Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Poppins&duration=4000&color=C9D1D9&lines=Winners+never+quit.;Quitters+never+win." alt="Winners never quit. Quitters never win."/>
 </a>
 
+<div>
 <a href="https://www.linkedin.com/in/danecwalker/">
   <img
     src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -33,6 +34,7 @@ Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
     alt="Dev.to"
   />
 </a>
+</div>
 </div>
 
 <br/>
