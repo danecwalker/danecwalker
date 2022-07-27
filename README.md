@@ -38,7 +38,7 @@ Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 
 <br/>
 
-## I am Dane Walker
+## Hi I'm Dane
 
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
 - Powered by coffee 
