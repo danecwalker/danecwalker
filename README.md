@@ -57,6 +57,6 @@ Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=danecwalker&count_private=true&include_all_commits=true&custom_title=My%20Stats%20%F0%9F%9A%80&theme=dark&show_icons=true&border_color=00000000" />
 </a>
 <a href="#">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/demo/preview.php?user=danecwalker&theme=dark&date_format=j%20M%5B%20Y%5D&dates=9f9f9f&fire=79ff97&ring=79ff97&currStreakLabel=79ff97&stroke=9f9f9f&border=00000000" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danecwalker&theme=dark&date_format=j%20M%5B%20Y%5D&dates=9f9f9f&fire=79ff97&ring=79ff97&currStreakLabel=79ff97&stroke=9f9f9f&border=00000000" />
 </a>
 </div>
