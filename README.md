@@ -56,6 +56,11 @@
 <br/>
 <br/>
 <div>
+<br/>
+<br/>
+<br/>
+<br/>
+<div>
 <a href="#">
   <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=danecwalker&count_private=true&include_all_commits=true&custom_title=My%20Stats%20%F0%9F%9A%80&theme=dark&show_icons=true&border_color=00000000" />
 </a>
