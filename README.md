@@ -5,32 +5,37 @@
 </div>
 </br>
 
-# **Hi there** <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
+<div align="center">
+
+<h1>
+Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
+</h1>
 
 <a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4000&color=C9D1D9&lines=Winners+never+quit.;Quitters+never+win." alt="Winners never quit. Quitters never win."/>
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Poppins&duration=4000&color=C9D1D9&lines=Winners+never+quit.;Quitters+never+win." alt="Winners never quit. Quitters never win."/>
 </a>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/danecwalker/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://medium.com/@danecwalker">
-    <img
-      src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium"
-    />
-  </a>
-  <a href="https://app.daily.dev/danecwalker">
-    <img
-      src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
-      alt="Dev.to"
-    />
-  </a>
+<a href="https://www.linkedin.com/in/danecwalker/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+<a href="https://medium.com/@danecwalker">
+  <img
+    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"
+    alt="Medium"
+  />
+</a>
+<a href="https://app.daily.dev/danecwalker">
+  <img
+    src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
+    alt="Dev.to"
+  />
+</a>
 </div>
+
+<br/>
 
 ## I am Dane Walker
 
