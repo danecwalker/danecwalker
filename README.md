@@ -1,13 +1,13 @@
 <div align="center">
 <a href="#">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="quote">
+<img width="50%" height="auto" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="quote">
 </a>
 </div>
 
 <div align="center">
 
 <h1>
-Hi there <img height="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
+Hi there <img height="26rem" width="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
 </h1>
 
 <a>
