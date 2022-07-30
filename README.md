@@ -1,6 +1,6 @@
 <div align="center">
 <a href="#">
-<img width="50%" height="auto" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="quote">
+<img width="40%" height="auto" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="quote">
 </a>
 </div>
 
