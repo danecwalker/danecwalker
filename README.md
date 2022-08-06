@@ -44,7 +44,7 @@
 - [Atomic Note Taking](https://danecwalker.medium.com/atomic-note-taking-8b3fc7bfb642?source=rss-8a750988d62f------2)
 <!-- BLOG-POST-LIST:END -->
 
-`## Recent Activity` 🔋
+`## Recent Activity` ⚡️
 <!--START_SECTION:activity-->
 
 <br/>
