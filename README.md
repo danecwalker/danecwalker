@@ -32,12 +32,12 @@ Hi there <img height="26rem" width="26rem" src="https://media.giphy.com/media/hv
 
 <br/>
 
-## Hi I'm Dane
+`## Hi I'm Dane`
 
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
 - Powered by coffee 
 
-### Blog Posts 📕
+`### Blog Posts 📕`
 <!-- BLOG-POST-LIST:START -->
 - [Scrift — Part 1: Getting Started](https://danecwalker.medium.com/scrift-part-1-getting-started-8c859f420aed?source=rss-8a750988d62f------2)
 - [Scrift — Part 0: A New Markup Language](https://danecwalker.medium.com/scrift-part-0-a-new-markup-language-698084aa3c0e?source=rss-8a750988d62f------2)
