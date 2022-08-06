@@ -33,7 +33,7 @@
 <br/>
 
 ```
-## About Me
+## About Me 🙍‍♂️
 ```
 
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
@@ -47,6 +47,11 @@
 - [Scrift — Part 0: A New Markup Language](https://danecwalker.medium.com/scrift-part-0-a-new-markup-language-698084aa3c0e?source=rss-8a750988d62f------2)
 - [Atomic Note Taking](https://danecwalker.medium.com/atomic-note-taking-8b3fc7bfb642?source=rss-8a750988d62f------2)
 <!-- BLOG-POST-LIST:END -->
+
+```
+## Recent Activity ⚡️
+```
+<!--START_SECTION:activity-->
 
 <br/>
 
