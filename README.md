@@ -54,9 +54,3 @@ Hi there <img height="26rem" width="26rem" src="https://media.giphy.com/media/hv
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=danecwalker&theme=dark&date_format=j%20M%5B%20Y%5D&dates=9f9f9f&fire=79ff97&ring=79ff97&currStreakLabel=79ff97&stroke=9f9f9f&border=00000000" />
 </a>
 </div>
-
-<div align="center">
-<a href="#">
-<img width="40%" height="auto" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="quote">
-</a>
-</div>
