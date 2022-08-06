@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-&lt; 👋 Hi, I'm Dane / &gt;
+<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=Poppins&duration=4000&color=C9D1D9&lines=Winners+never+quit.;Quitters+never+win." alt="Winners never quit. Quitters never win."/>
 </h1>
 
 <a>
