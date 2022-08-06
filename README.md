@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-<img src="https://github.com/danecwalker/danecwalker/blob/main/header.png?raw=true" alt="Hi, I'm Dane"/>
+<img src="https://github.com/danecwalker/danecwalker/blob/main/header.png?raw=true" alt="Hi 👋, I'm Dane Walker"/>
 </h1>
 
 <a>
