@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-&lt;<img height="26rem" width="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />Hi, I'm Dane /&gt;
+&lt; <img height="26rem" width="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />Hi, I'm Dane /&gt;
 </h1>
 
 <a>
