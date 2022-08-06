@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-Hi there <img height="26rem" width="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />
+&lt;<img height="26rem" width="26rem" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="wave" />Hi, I'm Dane /&gt;
 </h1>
 
 <a>
@@ -33,14 +33,14 @@ Hi there <img height="26rem" width="26rem" src="https://media.giphy.com/media/hv
 <br/>
 
 ```
-## Hi I'm Dane
+## About Me
 ```
 
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
 - Powered by coffee ☕️
 
 ```
-### Blog Posts 📕
+## Blog Posts 📕
 ```
 <!-- BLOG-POST-LIST:START -->
 - [Scrift — Part 1: Getting Started](https://danecwalker.medium.com/scrift-part-1-getting-started-8c859f420aed?source=rss-8a750988d62f------2)
