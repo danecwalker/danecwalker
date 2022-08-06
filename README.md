@@ -49,7 +49,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ```html
-## Recent Activity ⚡️
+## Recent Activity 🔋
 ```
 <!--START_SECTION:activity-->
 
