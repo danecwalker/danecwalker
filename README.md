@@ -32,14 +32,14 @@
 
 <br/>
 
-```
-## About Me 🙍‍♂️
+```html
+## About Me 👨‍💻
 ```
 
 - Engineering / Computer Science Student at [QUT](https://www.qut.edu.au/)
 - Powered by coffee ☕️
 
-```
+```html
 ## Blog Posts 📕
 ```
 <!-- BLOG-POST-LIST:START -->
@@ -48,7 +48,7 @@
 - [Atomic Note Taking](https://danecwalker.medium.com/atomic-note-taking-8b3fc7bfb642?source=rss-8a750988d62f------2)
 <!-- BLOG-POST-LIST:END -->
 
-```
+```html
 ## Recent Activity ⚡️
 ```
 <!--START_SECTION:activity-->
