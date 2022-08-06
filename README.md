@@ -46,6 +46,9 @@
 
 `## Recent Activity` ⚡️
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/danecwalker/coffeebean/pull/1) in [danecwalker/coffeebean](https://github.com/danecwalker/coffeebean)
+2. 💪 Opened PR [#1](https://github.com/danecwalker/coffeebean/pull/1) in [danecwalker/coffeebean](https://github.com/danecwalker/coffeebean)
+<!--END_SECTION:activity-->
 
 <br/>
 
