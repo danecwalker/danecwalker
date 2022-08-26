@@ -46,8 +46,8 @@
 
 `## Recent Activity` ⚡️
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/TeamGooat/hackathon-project/pull/2) in [TeamGooat/hackathon-project](https://github.com/TeamGooat/hackathon-project)
-2. 💪 Opened PR [#3](https://github.com/TeamGooat/hackathon-project/pull/3) in [TeamGooat/hackathon-project](https://github.com/TeamGooat/hackathon-project)
+1. 🎉 Merged PR [#1](https://github.com/danecwalker/st4re-stack/pull/1) in [danecwalker/st4re-stack](https://github.com/danecwalker/st4re-stack)
+2. 💪 Opened PR [#1](https://github.com/danecwalker/st4re-stack/pull/1) in [danecwalker/st4re-stack](https://github.com/danecwalker/st4re-stack)
 <!--END_SECTION:activity-->
 
 <br/>
