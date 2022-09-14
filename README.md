@@ -46,8 +46,8 @@
 
 `## Recent Activity` ⚡️
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#294](https://github.com/UQComputingSociety/website/pull/294) in [UQComputingSociety/website](https://github.com/UQComputingSociety/website)
-2. 🎉 Merged PR [#1](https://github.com/danecwalker/st4re-stack/pull/1) in [danecwalker/st4re-stack](https://github.com/danecwalker/st4re-stack)
+1. 🎉 Merged PR [#1](https://github.com/danecwalker/goact/pull/1) in [danecwalker/goact](https://github.com/danecwalker/goact)
+2. 💪 Opened PR [#1](https://github.com/danecwalker/goact/pull/1) in [danecwalker/goact](https://github.com/danecwalker/goact)
 <!--END_SECTION:activity-->
 
 <br/>
